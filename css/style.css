@@ -1,0 +1,12 @@
+.electric{
+  background-image: url("../img/Electric state.jpeg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: left;
+}
+footer {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: black;
+}
